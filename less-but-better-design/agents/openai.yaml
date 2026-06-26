@@ -1,0 +1,4 @@
+interface:
+  display_name: "Less But Better Design"
+  short_description: "Rams-inspired design taste and restraint"
+  default_prompt: "Use $less-but-better-design to shape a clear, useful, restrained interface design."

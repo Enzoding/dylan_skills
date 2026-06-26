@@ -1,0 +1,4 @@
+interface:
+  display_name: "Classic Braun Design"
+  short_description: "Classic Braun product-style UI direction"
+  default_prompt: "Use $classic-braun-design to design this webpage or app in a classic Braun product style."
