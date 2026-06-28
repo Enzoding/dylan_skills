@@ -1,0 +1,4 @@
+interface:
+  display_name: "Object to Design"
+  short_description: "Turn physical objects into AI-ready DESIGN.md"
+  default_prompt: "Use $object-to-design to create a DESIGN.md from a physical product or brand artifact for an AI coding agent."
